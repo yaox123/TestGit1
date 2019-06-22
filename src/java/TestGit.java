@@ -17,4 +17,6 @@ public class TestGit {
      * 年龄
      */
     private String yyyy;
+
+    private String jjjj;
 }
